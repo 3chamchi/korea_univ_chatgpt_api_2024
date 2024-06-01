@@ -2,7 +2,7 @@
 # ChatGPT API 연동
 from openai import OpenAI
 
-api_key = "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"
+api_key = ""
 
 client = OpenAI(
     api_key=api_key

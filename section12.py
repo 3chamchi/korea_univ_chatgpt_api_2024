@@ -4,9 +4,9 @@
 # 1. ChatGPT API 패키지 불러오기
 from openai import OpenAI
 # 2. API 키 변수 생성
-# api_key = "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"
+# api_key = ""
 # 3. ChatGPT 연동
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 # 4.사용자 메시지 입력
 user_content = input("메시지 ChatGPT : ")
 # 5. ChatGPT API 요청, 응답 변수 생성

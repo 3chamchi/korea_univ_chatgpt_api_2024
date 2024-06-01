@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key='sk-proj-5DGQEXHFaQHWME4RjWJaT3BlbkFJv9jYDOeaZi6V9FysVK4E',
+    api_key='',
 )
 
 text = input('번역할 내용을 입력해주세요 : ')

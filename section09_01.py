@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key='sk-proj-5DGQEXHFaQHWME4RjWJaT3BlbkFJv9jYDOeaZi6V9FysVK4E',
+    api_key='',
 )
 
 print(f"===== 번역기 Ver1 =====")
