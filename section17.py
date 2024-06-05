@@ -5,7 +5,7 @@
 from openai import OpenAI
 
 # 2. API 키 변수 생성
-api_key = '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'
+api_key = ''
 
 # 3. ChatGPT 연동
 client = OpenAI(api_key=api_key)
