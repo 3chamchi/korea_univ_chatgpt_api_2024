@@ -4,7 +4,7 @@
 # 1. ChatGPT 연결을 위한 패키지 불러오기
 from openai import OpenAI
 # 2. ChatGPT API 키 변수 생성, 키 값 지정
-api_key = ""
+api_key = "sk-proj-vVbQsomD8Nx2NPWG91itT3BlbkFJlRigZtWnr9z06nuYyvCC"
 # 3. ChatGPT 연동
 client = OpenAI(
     api_key=api_key
