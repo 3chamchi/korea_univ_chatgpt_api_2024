@@ -8,7 +8,7 @@ import requests
 from openai import OpenAI
 
 # 2. API 키 변수 생성
-api_key = 'sk-proj-g39lId2sEO2zqQln5DPJT3BlbkFJME8eLWpFpIAIHr3QmQyR'
+api_key = ''
 # 3. ChatGPT API 연동
 client = OpenAI(api_key=api_key)
 
